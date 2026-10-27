@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/ADAPTER/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ADAPTER/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/BUILDER-SINGLETON-PROTOTYPE/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/COMPOSITE/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/COMPOSITE/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DECORATOR/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/DECORATOR/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/OBSERVER/src/main/java" charset="UTF-8" />

@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/builder-singleton-prototype/pom.xml" />
         <option value="$PROJECT_DIR$/STRATEGY/pom.xml" />
         <option value="$PROJECT_DIR$/ADAPTER/pom.xml" />
+        <option value="$PROJECT_DIR$/COMPOSITE/pom.xml" />
       </list>
     </option>
   </component>

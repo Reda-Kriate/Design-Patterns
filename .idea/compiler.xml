@@ -10,6 +10,7 @@
         <module name="Decorator" />
         <module name="observer" />
         <module name="STRATEGY" />
+        <module name="COMPOSITE" />
         <module name="ADAPTER" />
       </profile>
     </annotationProcessing>

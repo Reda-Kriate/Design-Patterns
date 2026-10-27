@@ -7,7 +7,6 @@ public class Computer{
         vga.print(msg);
         System.out.println("-------------------------------");
     }
-
     public void setVga(VGA vga) {
         this.vga = vga;
     }

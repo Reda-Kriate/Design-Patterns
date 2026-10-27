@@ -10,6 +10,7 @@ public class Main {
         computer.setVga(new VideoProjector());
         computer.view("Hello");
         System.out.println(";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;");
+
         VgaHdmiAdapter adapter = new VgaHdmiAdapter();
         adapter.setHdmi(new Tv());
         computer.setVga(adapter);
